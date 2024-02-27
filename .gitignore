@@ -36,3 +36,6 @@ old
 *.rpp-UNDO
 *.rpp-bak
 Thumbs.db
+.picasa.ini
+.picasaoriginals
+~$*.docx
