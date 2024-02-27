@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.mkv
+Mysterious.wav
+old
+*.rpp-UNDO
+*.rpp-bak
+Thumbs.db
